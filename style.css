@@ -4,6 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: azure;
 }
 h2 {
   font-weight: 600;
