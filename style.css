@@ -6,8 +6,11 @@ body {
   justify-content: center;
   background-color: azure;
 }
+h1 {
+  font-weight: 900;
+}
 h2 {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 p {
